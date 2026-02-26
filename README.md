@@ -1,6 +1,6 @@
 # SteelConsults
 We help organizations run smarter, faster, and more efficiently. Our operational consulting services streamline processes, improve performance, and reduce costs by aligning people, systems, and strategy—turning complexity into clarity and operations into a competitive advantage.
-🐾
+
 
 
 In the last several years, astronomers have identified rare visitors from beyond our solar system — interstellar objects passing briefly through our cosmic neighborhood. The first confirmed was ʻOumuamua in 2017, followed by 2I/Borisov in 2019. Most recently, scientists confirmed 3I/ATLAS, another object entering from outside our solar system.
@@ -31,5 +31,5 @@ The building blocks of planetary systems may be universal. The galaxy isn’t ma
 Interstellar visitors aren’t foreign chemistry.
 They’re familiar chemistry — tuned by another sun.
 
-update* to edible paint with mystery flavor unknown to our taste in our solar system to give us hope of something new as well as what was said above.
+update* to edible paint with mystery flavor unknown ( nickle vapor biolab )to our taste in our solar system to give us hope of something new as well as what was said above.
 2/5 senses loged so far ongoing researh to continue on public data 

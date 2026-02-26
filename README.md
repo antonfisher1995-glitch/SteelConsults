@@ -2,7 +2,7 @@
 
 
 
- alien invasion crayon style explination to the public 
+ alien invasion crayon style explination to the public of object ʻOumuamua
  
  
  smart paper plate with smart accessory's linked to device third party development program.

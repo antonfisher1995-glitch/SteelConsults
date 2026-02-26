@@ -31,4 +31,5 @@ The building blocks of planetary systems may be universal. The galaxy isn’t ma
 Interstellar visitors aren’t foreign chemistry.
 They’re familiar chemistry — tuned by another sun.
 
-update* to edible paint with mystery flavor unknown to our taste in our solar system to give us hope of something new as well as what was said above
+update* to edible paint with mystery flavor unknown to our taste in our solar system to give us hope of something new as well as what was said above.
+2/5 senses loged so far ongoing researh to continue on public data 

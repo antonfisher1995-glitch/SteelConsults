@@ -17,3 +17,5 @@ Touch -Arc random gen pico material activation with rocky, space-weathered objec
 Hearing - very low-frequency, very low-amplitude waveform
 
 Smell - digital olfactory encoding.  linking a scan code to a controlled device or to a data profile that drives a scent emitter rather than storing smell itself.
+
+
